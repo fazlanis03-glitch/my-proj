@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Buy comics",
+        "completed": true
+    },
+    {
+        "task": "do my homework",
+        "completed": true
+    },
+    {
+        "task": "complete project",
+        "completed": false
+    }
+]
