@@ -1,5 +1,5 @@
 #qr code
-#simple appraoch
+
 
 
 import qrcode
@@ -14,7 +14,7 @@ import qrcode
 #we need to strip to get rid of white space
 
 
-#video way -custom qr code 
+#custom qr code 
 data = input('Enter the text or URL: ').strip()
 filename = input('Enter the filename: ').strip()
 qr = qrcode.QRCode(box_size = 10, border = 4)
